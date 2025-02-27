@@ -2,7 +2,7 @@
 
 
 
-## Case study Overview
+## Overview
 The **Draco National Park Visitor Dashboard** is an interactive data visualization tool built using **Streamlit**. It helps park analysts track visitor trends, analyze revenue, and predict future attendance patterns based on historical data and weather conditions. The dashboard provides an intuitive and user-friendly interface for data-driven decision-making.
 
 ## Features
